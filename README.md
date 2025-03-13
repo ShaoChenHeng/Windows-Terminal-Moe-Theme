@@ -1,7 +1,7 @@
 ## Moe Theme for [Windows Terminal](https://github.com/Microsoft/Terminal)
 
-![screenshot of this theme](./Moe.jpg)
-![screenshot of this theme](./Moe-dark.jpg)
+![screenshot of this theme](./Moe.png)
+![screenshot of this theme](./Moe-dark.png)
 
 ## Postscript
 
